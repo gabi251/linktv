@@ -1,619 +1,387 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880504.png",TVP
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880504&extension=ts&play_token=tEMtaoaKh7
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880520.png",TVP 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880520&extension=ts&play_token=zjxYTrDy7H
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880519.png",TVP 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880519&extension=ts&play_token=CXoUeO6LL4
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880240.png",TVP 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880240&extension=ts&play_token=2MurJlzRIZ
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121741.png",TVP KOBIETA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121741&extension=ts&play_token=mSVJV8z1au
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880237.png",TVP ROZRYWKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880237&extension=ts&play_token=3VoliUzGqY
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880387.png",TVP KULTURA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880387&extension=ts&play_token=3WKVnT9xSE
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121742.png",TVP KULTURA 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121742&extension=ts&play_token=9NOp3LXhNf
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880389.png",TTV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880389&extension=ts&play_token=gRWBd28lWp
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880378.png",TVN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880518&extension=ts&play_token=u4ZUwJQ0bD
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880517.png",TVN 7
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880517&extension=ts&play_token=YbQauKJqbx
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880516.png",TVN FABULA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880516&extension=ts&play_token=zUfUqAuGPP
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880515.png",TVN STYLE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880515&extension=ts&play_token=bCEwqOPjaC
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880514.png",TVN TURBO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880514&extension=ts&play_token=jCDf1qcNTu
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1629540.png",TBN POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1629540&extension=ts&play_token=hKIOXpBaxV
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880386.png",SUPER POLSAT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880386&extension=ts&play_token=HaJ04BzObP
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880509.png",POLSAT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880509&extension=ts&play_token=JV1W0KsUPR
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880508.png",POLSAT 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880508&extension=ts&play_token=RKWaliNKP8
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880506.png",POLSAT RODZINA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880506&extension=ts&play_token=di5Ar58ZDY
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880404.png",POLSAT CAFE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880404&extension=ts&play_token=1VebWT3xMr
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-GAMES.png",POLSAT GAMES
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880401&extension=ts&play_token=Sm7dgcSfbR
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880399.png",POLSAT PLAY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880399&extension=ts&play_token=fb50PNm3qM
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880475.png",PULS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880475&extension=ts&play_token=t1lHNalOLK
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880479.png",PULS 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880479&extension=ts&play_token=HE9MVtQ264
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880510.png",TV4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880510&extension=ts&play_token=DVvEVHASas
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880511.png",TV6
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880511&extension=ts&play_token=mjgnwMClDT
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880230.png",TELE 5
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880230&extension=ts&play_token=YJUDDANLJx
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1679452.png",EWTN POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1679452&extension=ts&play_token=q9NZkhNGPW
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1060637.png",ANTENA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1060637&extension=ts&play_token=65uxji1VqY
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880474.png",TLC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880474&extension=ts&play_token=qtRnD7mQgT
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880481.png",FOOD NETWORK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880481&extension=ts&play_token=LIS75yVxfl
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880385.png",HGTV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880385&extension=ts&play_token=BfbdBGKqkn
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880214.png",HOME TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880214&extension=ts&play_token=2BDHRKC05Q
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880424.png",DOMO+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880424&extension=ts&play_token=gpqsJBoyYd
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880415.png",KUCHNIA+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880415&extension=ts&play_token=hcmQ4EiNKB
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/activefamily.png",ACTIVE FAMILY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880234&extension=ts&play_token=jh49sN9mDU
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880212.png",METRO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880212&extension=ts&play_token=m3HmUBWF7A
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880201.png",TVS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880201&extension=ts&play_token=p9x5jGzSAs
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880407.png",NOWA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880407&extension=ts&play_token=8iZOqpMlqM
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880190.png",ZOOM TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880190&extension=ts&play_token=Ky2KRi2RFn
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880422.png",E! ENTERTAINMENT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880422&extension=ts&play_token=OpD0oRiXmp
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880192.png",WP
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880192&extension=ts&play_token=AlsvHxo2pS
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880242.png",TVP POLONIA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880242&extension=ts&play_token=yLVLlryZZz
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880241.png",TVP POLONIA 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880241&extension=ts&play_token=4q3iji3Rpv
-#EXTINF:-1 group-title="OGÓLNOTEMATYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TRWAM-PL.png",TRWAM TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=884764&extension=ts&play_token=vpWSJBsJS9
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880498.png",CANAL+ PREMIUM
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880498&extension=ts&play_token=FhEgTjz04o
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880501.png",CANAL+ 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880501&extension=ts&play_token=gVFeyDGTBx
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880491.png",CANAL+ FILM
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880491&extension=ts&play_token=0KyHUz9bbV
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880497.png",CANAL+ SERIALE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880497&extension=ts&play_token=CYosvlVQI0
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880494.png",HBO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880494&extension=ts&play_token=iBmPhZOluw
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880496.png",HBO 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880496&extension=ts&play_token=BE4dKBsz90
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880495.png",HBO 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880495&extension=ts&play_token=xvlxJ6YrE5
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880505.png",POLSAT FILM
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880505&extension=ts&play_token=mRm4GhlK4K
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/PARAMOUNT--PL.png",PARAMOUNT CHANNEL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880472&extension=ts&play_token=qxJnVajcr5
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880473.png",WARNER TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880473&extension=ts&play_token=T5tr1JJEwO
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880492.png",13 ULICA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880492&extension=ts&play_token=Tr67gmgq2r
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png",AMC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880433&extension=ts&play_token=6tnCJqlcuB
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880493.png",ALE KINO+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880493&extension=ts&play_token=q6CyaWSXs8
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880490.png",AXN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880490&extension=ts&play_token=TgUUu18Bdy
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880489.png",AXN SPIN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880489&extension=ts&play_token=o26tOq507g
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880235.png",AXN WHITE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880235&extension=ts&play_token=KAwu45htTd
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880236.png",AXN BLACK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880236&extension=ts&play_token=jHgYirEjCh
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880485.png",CINEMAX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880485&extension=ts&play_token=BYhwC4jAtJ
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880488.png",CINEMAX 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880488&extension=ts&play_token=WDiJuHDuAL
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880483.png",FILMBOX PREMIUM
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880483&extension=ts&play_token=reilN1k5Xr
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880344.png",FILMBOX EXTRA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880344&extension=ts&play_token=drElqZlURG
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880232.png",FILMBOX ARTHOUSE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880232&extension=ts&play_token=v3Lq9Vujxf
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880233.png",FILMBOX ACTION
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880233&extension=ts&play_token=strcNF49TC
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/FILMBOX-FAMILY.png",FILMBOX FAMILY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880231&extension=ts&play_token=LYcGJeNdSe
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880487.png",COMEDY CENTRAL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880487&extension=ts&play_token=IFQIZGoTWh
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880403.png",POLSAT COMEDY CENTRAL EXTRA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880403&extension=ts&play_token=4QeIr5ZKKx
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880486.png",COMEDY CENTRAL POLAND
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880486&extension=ts&play_token=XckR7OkyJl
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880478.png",KINO TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880478&extension=ts&play_token=7Qh4Uc8x75
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880476.png",KINO POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880476&extension=ts&play_token=0b6WlCscJH
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880189.png",TVP SERIALE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880189&extension=ts&play_token=GVQJTJwmmR
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880507.png",POLSAT SERIALE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880507&extension=ts&play_token=nIW6K4Ab3B
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880477.png",FOX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880477&extension=ts&play_token=ge9idLiyGs
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880480.png",FOX COMEDY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880480&extension=ts&play_token=FYBoNKIq2G
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880451.png",SCIFI UNIVERSAL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880451&extension=ts&play_token=gKI8mrvbY0
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880431.png",CBS EUROPA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880431&extension=ts&play_token=PUQp0sxRmD
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/EPIC-DRAMA.png",EPIC DRAMA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880421&extension=ts&play_token=laQ5FQ2f1i
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880229.png",STOPKLATKA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880229&extension=ts&play_token=zQUY6oycAK
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880392.png",SUNDANCE TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880392&extension=ts&play_token=IWxtc6cfBY
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880394.png",ROMANCE TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880394&extension=ts&play_token=qGOqPgMR3U
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880209.png",NOVELA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880209&extension=ts&play_token=NhGCvTQxKf
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880410.png",NOVELAS+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880410&extension=ts&play_token=rGJp8NA67C
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880395.png",RED CARPET TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880395&extension=ts&play_token=41DpetA2bb
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880197.png",VOD 205
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880197&extension=ts&play_token=4tqj102jUO
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880196.png",VOD 206
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880196&extension=ts&play_token=rbBvtVfVhZ
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880195.png",VOD 207
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880195&extension=ts&play_token=FsMwfM9nFF
-#EXTINF:-1 group-title="FILMOWE" tvg-logo="http://picons.cmshulk.com/picons/880194.png",VOD 208
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880194&extension=ts&play_token=gszln2KkVd
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png",TVN CZAS NA ŚLUB
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1649893&extension=ts&play_token=KxvoOc1tyt
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/POLAND/TVN.png",TVN KULINARNE PODRÓŻE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1649891&extension=ts&play_token=tPjg5XRyDN
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1649889.png",TVN PATROL ONLINE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1649889&extension=ts&play_token=F3pzFux9B9
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KRYMINALNIE.png",TVN KRYMINALNIE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433874&extension=ts&play_token=3kP8aG3iuU
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-KULTOWE-SERIALE.png",TVN KULTOWE SERIALE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433876&extension=ts&play_token=RCVDBJ6R84
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-MOMENTY-PRAWDY.png",TVN MOMENTY PRAWDY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433878&extension=ts&play_token=QnxnfVrv07
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433880.png",TVN MOTO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433880&extension=ts&play_token=wD1tEzqxXe
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433882.png",TVN PRAWO I ŻYCIE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433882&extension=ts&play_token=FXoHfZFJFY
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433884.png",TVN RAJSKA MIŁOŚĆ
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433884&extension=ts&play_token=zrBTcQXgcn
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-REWOLUCJE-W-KUCHNI.png",TVN REWOLUCJE W KUCHNI
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433886&extension=ts&play_token=FtXSq1pZhA
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433888.png",TVN SERIAL O KOBIETACH
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433888&extension=ts&play_token=MulKJXuVrc
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433890.png",TVN SZKOŁA ŻYCIA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433890&extension=ts&play_token=VwvnPAiiQn
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-SZPITALNE-HISTORIE.png",TVN SZPITALNE HISTORIE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433892&extension=ts&play_token=h22Kk8qXdO
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433894.png",TVN TALK—SHOW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433894&extension=ts&play_token=24jHCVYSe6
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/TVN-TELENOWELE.png",TVN TELENOWELE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433896&extension=ts&play_token=3jmazAqxrq
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433898.png",TVN USTERKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433898&extension=ts&play_token=9JWIW1TsMc
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://picons.cmshulk.com/picons/1433900.png",TVN W DOMU
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433900&extension=ts&play_token=ptkzZHHanY
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/logos/MILIONERZY.png",TVN MILIONERZY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1496498&extension=ts&play_token=p0bYDORgXv
-#EXTINF:-1 group-title="KANAŁY TVN PLAYER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVN-%c5%bbYCIE-JAK-W-BAJCE.png",TVN ŻYCIE JAK W BAJCE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1433902&extension=ts&play_token=WGWKrjcLz5
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880224.png",DA VINCI LEARNING
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880224&extension=ts&play_token=Msqezx9ad4
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/abc.png",TVP ABC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880239&extension=ts&play_token=aDL9coupEd
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/abc.png",TVP ABC 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121740&extension=ts&play_token=59GkEnCMKf
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1121750.png",DUCK TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121750&extension=ts&play_token=ksuHZuFadA
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1121751.png",DUCK TV PLUS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121751&extension=ts&play_token=GD3JglzNzI
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880226.png",BBC CBEEBIES
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880226&extension=ts&play_token=HrzFI2bfvl
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/897016.png",TOP KIDS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897016&extension=ts&play_token=FBrdwPcxqO
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880225.png",BABY TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880225&extension=ts&play_token=dBRuYFCwVi
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/1035704.png",4FUN KIDS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1035704&extension=ts&play_token=mdFQYRF4Oh
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880211.png",NICK JR POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880211&extension=ts&play_token=Haqs4VOuRO
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NICK-MUSIC-PL.png",NICK MUSIC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121757&extension=ts&play_token=5185iV0Uq9
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880411.png",TEENNICK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880411&extension=ts&play_token=gfUwaGmIcH
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880210.png",NICKELODEON
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880210&extension=ts&play_token=uAUNjnZUUN
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880412.png",NICKTOONS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880412&extension=ts&play_token=lI9pxJ2AnP
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-JIM-JAM.png",POLSAT JIM JAM
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880206&extension=ts&play_token=WGtVpQPL5U
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/disneych.png",DISNEY CHANNEL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880285&extension=ts&play_token=E9oxgoUi5q
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880219.png",DISNEY JUNIOR
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880219&extension=ts&play_token=VJUcPwmt3o
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880218.png",DISNEY XD
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880218&extension=ts&play_token=lFUi4E0ngI
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880443.png",BOOMERANG
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880443&extension=ts&play_token=1C5Y878KB0
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880390.png",TELETOON+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880390&extension=ts&play_token=rsYks4OhhV
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880414.png",MINIMINI
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880414&extension=ts&play_token=FH6i5ZDVwS
-#EXTINF:-1 group-title="DLA DZIECI" tvg-logo="http://picons.cmshulk.com/picons/880432.png",CARTOON NETWORK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880432&extension=ts&play_token=wi0lYaCvx3
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1131804.png",LOVE NATURE 4K+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1131804&extension=ts&play_token=XBZz2bb4mC
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880445.png",TRAVEL CHANNEL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880445&extension=ts&play_token=SVNNWIGxN6
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880437.png",ANIMAL PLANET
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880437&extension=ts&play_token=fPEryRd6FW
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880434.png",ADVENTURE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880434&extension=ts&play_token=5rRpHCTGGL
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880450.png",BBC BRIT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880450&extension=ts&play_token=IfYE7Vw4DW
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880436.png",BBC EARTH
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880436&extension=ts&play_token=0iFzLuWV43
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880309.png",BBC FIRST
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880309&extension=ts&play_token=Cco48DoINu
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880435.png",BBC LIFESTYLE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880435&extension=ts&play_token=2Qtg4pw26W
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880430.png",CBS REALITY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880430&extension=ts&play_token=pB3B9uYkC4
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880442.png",CANAL+ DOKUMENT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880442&extension=ts&play_token=HeyMWEJ41w
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880428.png",DISCOVERY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880428&extension=ts&play_token=1YbhRH2vLb
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880426.png",DISCOVERY SCIENCE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880426&extension=ts&play_token=a6sXdb4Pie
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880427.png",DISCOVERY LIFE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880427&extension=ts&play_token=0jMgdwzJZS
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1530077.png",DISCOVERY HISTORIA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1530077&extension=ts&play_token=Naa0uwK4Zv
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/NAT-GEO--PL.png",NATIONAL GEOGRAPHIC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880438&extension=ts&play_token=BBdvqwKDn7
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880439.png",NAT GEO WILD
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880439&extension=ts&play_token=R31fe8z2ci
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880440.png",NAT GEO PEOPLE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880440&extension=ts&play_token=jPXpIfeFwR
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880416.png",ID
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880416&extension=ts&play_token=ZEoGyseE61
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880429.png",CRIME AND INVESTIGATION
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880429&extension=ts&play_token=OTOh7FqKSG
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880423.png",DTX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880423&extension=ts&play_token=6QqcC90z67
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880384.png",HISTORY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880384&extension=ts&play_token=khDyesb89U
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880418.png",H2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880418&extension=ts&play_token=hH85LzgdCp
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880405.png",PLANETE+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880405&extension=ts&play_token=v6TtKkrtpn
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880402.png",POLSAT DOKU
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880402&extension=ts&play_token=XtTZuVC4qQ
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880397.png",POLSAT VIASAT HISTORY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880397&extension=ts&play_token=3NQefXSi3u
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880398.png",POLSAT VIASAT EXPLORE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880398&extension=ts&play_token=pOrbszqbTc
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880396.png",POLSAT VIASAT NATURE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880396&extension=ts&play_token=geYtmvUDnQ
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880482.png",FOKUS TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880482&extension=ts&play_token=Jq6gOtsccD
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880393.png",STUDIOMED TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880393&extension=ts&play_token=ptdlYAs5HK
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880388.png",TVP DOKUMENT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880388&extension=ts&play_token=i4GTPX5WQU
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/880238.png",TVP HISTORIA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880238&extension=ts&play_token=0B422fFbcv
-#EXTINF:-1 group-title="DOKUMENTALNE" tvg-logo="http://picons.cmshulk.com/picons/1121743.png",TVP HISTORIA 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121743&extension=ts&play_token=L6b7Z48c5k
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1498959.png",ELEVEN SPORTS 1 4K/UHD
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1498959&extension=ts&play_token=CKPNGfIAb2
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/905665.png",ELEVEN SPORTS 1 4K+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=905665&extension=ts&play_token=aAmDQSSU1S
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880457.png",ELEVEN SPORTS 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880457&extension=ts&play_token=freWVyYJgE
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880456.png",ELEVEN SPORTS 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880456&extension=ts&play_token=Jf9wTDYyuC
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880455.png",ELEVEN SPORTS 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880455&extension=ts&play_token=JUVjxYgamU
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880454.png",ELEVEN SPORTS 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880454&extension=ts&play_token=BELftgI2dd
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880453.png",EUROSPORT 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880453&extension=ts&play_token=tLocbX9uSj
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880452.png",EUROSPORT 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880452&extension=ts&play_token=bNAsIfylRf
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880500.png",CANAL+ 360
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880500&extension=ts&play_token=WTcQEaT7wh
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880499.png",CANAL+ NOW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880499&extension=ts&play_token=gXIksP7mtX
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880461.png",CANAL+ SPORT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880461&extension=ts&play_token=JwpxudS0JO
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880460.png",CANAL+ SPORT 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880460&extension=ts&play_token=fv0KKyzHiB
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880459.png",CANAL+ SPORT 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880459&extension=ts&play_token=9KsQTnPKGs
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880458.png",CANAL+ SPORT 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880458&extension=ts&play_token=pIM7UDwbk8
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880406.png",CANAL+ SPORT 5
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880406&extension=ts&play_token=Bc6ng7c7Zj
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880471.png",POLSAT SPORT 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880471&extension=ts&play_token=H4q5MY5cCc
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880470.png",POLSAT SPORT 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880470&extension=ts&play_token=f3aevMeDhB
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880468.png",POLSAT SPORT 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880468&extension=ts&play_token=k7aukJ8TcJ
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880467.png",POLSAT SPORT PREMIUM 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880467&extension=ts&play_token=eD8fNHznnH
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880466.png",POLSAT SPORT PREMIUM 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880466&extension=ts&play_token=4pOi7ZzG6W
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880465.png",POLSAT SPORT PREMIUM 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880465&extension=ts&play_token=lCqjTjGCmG
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880464.png",POLSAT SPORT PREMIUM 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880464&extension=ts&play_token=3jVVjwU8LL
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880463.png",POLSAT SPORT PREMIUM 5
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880463&extension=ts&play_token=n0zTYbUYk6
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880462.png",POLSAT SPORT PREMIUM 6
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880462&extension=ts&play_token=DS7BivNq6U
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880469.png",POLSAT SPORT FIGHT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880469&extension=ts&play_token=MSUdw7y6Cg
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880502.png",TVP SPORT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880502&extension=ts&play_token=V78W4BHEBI
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880447.png",SPORTKLUB
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880447&extension=ts&play_token=ZguWXXHQI1
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880420.png",FIGHTKLUB
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880420&extension=ts&play_token=xkO4cQVX5m
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880446.png",FIGHTBOX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880446&extension=ts&play_token=dwHo9CAWYJ
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/1121749.png",PRIME FIGHT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121749&extension=ts&play_token=wuv3nhN8rw
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880448.png",EXTREME SPORTS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880448&extension=ts&play_token=KVeUZzSGbP
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880419.png",GOLF CHANNEL
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880419&extension=ts&play_token=9fe2FiLcP8
-#EXTINF:-1 group-title="SPORTOWE" tvg-logo="http://picons.cmshulk.com/picons/880413.png",MOTOWIZJA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880413&extension=ts&play_token=aTlnhYDR5G
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602078.png",EUROSPORT
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602078&extension=ts&play_token=WTRLObDDf0
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602007.png",EUROSPORT 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602007&extension=ts&play_token=u62fw3dI71
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602008.png",EUROSPORT 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602008&extension=ts&play_token=e65YPGSwn7
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602009.png",EUROSPORT 5
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602009&extension=ts&play_token=zYdQaWyeOb
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602010.png",EUROSPORT 6
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602010&extension=ts&play_token=jDOZ9uN3pq
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602011.png",EUROSPORT 7
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602011&extension=ts&play_token=gNrdFljwAQ
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602012.png",EUROSPORT 8
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602012&extension=ts&play_token=MZeCsujIpr
-#EXTINF:-1 group-title="EUROSPORTS" tvg-logo="http://picons.cmshulk.com/picons/1602013.png",EUROSPORT 9
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1602013&extension=ts&play_token=NWVFPrHXcH
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880512.png",TVN24
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880512&extension=ts&play_token=V5s010JBTd
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880372.png",TVN24
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880372&extension=ts&play_token=HkQaQVJvSF
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880513.png",TVN24 BIS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880513&extension=ts&play_token=enSoZPotnc
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880503.png",TVP INFO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880503&extension=ts&play_token=eyvawnbUsf
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1121739.png",TVP WORLD
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121739&extension=ts&play_token=dVsSU7efJs
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880441.png",POLSAT NEWS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880441&extension=ts&play_token=toYFwlQDMO
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880227.png",POLSAT NEWS 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880227&extension=ts&play_token=uy0fHO54OZ
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1137583.png",WYDARZENIA 24
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1137583&extension=ts&play_token=kRRbDg0dn4
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/1121738.png",NEWS 24
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121738&extension=ts&play_token=envOjQr1R5
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880444.png",BIZNES24
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880444&extension=ts&play_token=sswVyHT6cd
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880191.png",WPOLSCE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880191&extension=ts&play_token=IUDzq1uhyn
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880203.png",TV REPUBLIKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880203&extension=ts&play_token=TOtUI3M8jA
-#EXTINF:-1 group-title="INFORMACYJNE" tvg-logo="http://picons.cmshulk.com/picons/880391.png",POLSAT NEWS POLITYKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880391&extension=ts&play_token=EpsQMbMUJ0
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880216.png",ESKA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880216&extension=ts&play_token=zxLMbpijA6
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880215.png",ESKA TV EXTRA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880215&extension=ts&play_token=sUemQCc1Te
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880217.png",ESKA ROCK TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880217&extension=ts&play_token=4y2I8gf1zn
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880220.png",4FUN.TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880220&extension=ts&play_token=CJasDF3TtM
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880222.png",4FUN DANCE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880222&extension=ts&play_token=n7UxfF4idn
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880221.png",4FUN GOLD HITS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880221&extension=ts&play_token=AMmi8e2b4c
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880204.png",STARS.TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880204&extension=ts&play_token=raezKlQ4ZE
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880207.png",NUTA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880207&extension=ts&play_token=tKcazjypxh
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/MUSIC-BOX-POLSKA.png",MUSIC BOX POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880199&extension=ts&play_token=6Fp6JG96Lz
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121760.png",MIXTAPE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121760&extension=ts&play_token=t9IGThiGFy
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121759.png",360 TUNEBOX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121759&extension=ts&play_token=Y2EmuXBvDH
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880213.png",KINO POLSKA MUZYKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880213&extension=ts&play_token=NwKbqPX9c5
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/POLSAT-MUSIC.png",POLSAT MUSIC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880400&extension=ts&play_token=izUWgzKUyd
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880409.png",MTV LIVE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880409&extension=ts&play_token=2SCQ033fV6
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880408.png",MTV POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880408&extension=ts&play_token=HrQN4X40oi
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121761.png",MTV 00S
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121761&extension=ts&play_token=RDZp0kJnOH
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880208.png",MTV 80S
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880208&extension=ts&play_token=OUpgCoAUx1
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VOX-MUSIC.png",VOX MUSIC TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880198&extension=ts&play_token=bBccOhuc7K
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880205.png",POWER TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880205&extension=ts&play_token=Y0cIKRmepa
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/DISCO-POLO-MUSIC.png",DISCO POLO MUSIC
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121755&extension=ts&play_token=ZlWHgbjzRq
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/880383.png",POLO TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=880383&extension=ts&play_token=yGYUBnsQVY
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://103.176.90.118/picons/logos/POLAND/JAZZ-PL.png",JAZZ
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121754&extension=ts&play_token=Q4cIP1Ce0R
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121752.png",MEZZO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121752&extension=ts&play_token=LVTempvOIo
-#EXTINF:-1 group-title="MUZYCZNE" tvg-logo="http://picons.cmshulk.com/picons/1121753.png",MEZZO LIVE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1121753&extension=ts&play_token=nayeFH0XQ7
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936815.png",TVP3 BIALYSTOK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936815&extension=ts&play_token=GrTHrvhJM7
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936816.png",TVP3 BYDGOSZCZ
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936816&extension=ts&play_token=HSMq7gYJY4
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936817.png",TVP3 GDANSK
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936817&extension=ts&play_token=cmjGy45Cfh
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936818.png",TVP3 GORZOW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936818&extension=ts&play_token=f3vBDz7IeS
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936819.png",TVP3 KATOWICE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936819&extension=ts&play_token=7W47qkyHcR
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936820.png",TVP3 KIELCE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936820&extension=ts&play_token=QtprRYlUen
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936821.png",TVP3 KRAKOW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936821&extension=ts&play_token=aylYBXb3rT
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936834.png",TVP3 LUBLIN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936834&extension=ts&play_token=hlAHLrGHNb
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936835.png",TVP3 LODZ
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936835&extension=ts&play_token=VjXrKNUgSr
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936836.png",TVP3 OLSZTYN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936836&extension=ts&play_token=1cBvJDVtVy
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936837.png",TVP3 OPOLE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936837&extension=ts&play_token=bELQpRqOOc
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936838.png",TVP3 POZNAN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936838&extension=ts&play_token=1mJAA33gPJ
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936839.png",TVP3 RZESZOW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936839&extension=ts&play_token=crrdJ8TDpF
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936948.png",TVP3 SZCZECIN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936948&extension=ts&play_token=q0WydFsT3v
-#EXTINF:-1 group-title="REGIONALNE" tvg-logo="http://picons.cmshulk.com/picons/936950.png",TVP3 WARSZAWA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=936950&extension=ts&play_token=XUnA79RepP
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691135.png",CANAL+ KUCHNIA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691135&extension=ts&play_token=IvIEdfPIlW
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691134.png",CANAL+ DOMO
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691134&extension=ts&play_token=3slqAjHUSs
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://51.158.145.100/picons/logos/logos/polsatcrimeandinvestigation.png",POLSAT CRIME & INVESTIGATION
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691129&extension=ts&play_token=ucngwgAZHI
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691113.png",Alfa TVP
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691113&extension=ts&play_token=FIVm0TGyf2
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691105.png",BBC NEWS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691105&extension=ts&play_token=rHsMk4vGQ0
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691104.png",BIZNES24 TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691104&extension=ts&play_token=XFBbI7zAK2
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691103.png",BLOOMBERG EUROPEAN TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691103&extension=ts&play_token=9oBoBk8POy
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691101.png",CBEE BIES
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691101&extension=ts&play_token=hYBC6O7j4T
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691096.png",CNBC EUROPE
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691096&extension=ts&play_token=Of0foYWepd
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691095.png",CNN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691095&extension=ts&play_token=1EuNjV1m8A
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691081.png",EURO NEWS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691081&extension=ts&play_token=1kPbArtGnc
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691078.png",FRANCE 24 FRA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691078&extension=ts&play_token=FPWssuyoIf
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691077.png",FX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691077&extension=ts&play_token=wcOuow3ftr
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691076.png",FX COMEDY
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691076&extension=ts&play_token=XU0JWsDFzC
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691074.png",HISTORY 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691074&extension=ts&play_token=nQ4rTv94c2
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691072.png",ID PLAND
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691072&extension=ts&play_token=xw6O8JBWLP
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691068.png",METRO TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691068&extension=ts&play_token=6ASqGMZclk
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691067.png",MINIMINI+
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691067&extension=ts&play_token=EY9tnmhJM3
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691065.png",MTV 90s
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691065&extension=ts&play_token=QL3AlxV2XY
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://logo.protv.cc/piconsnew/nationalgeographicwild.png",NATIONAL GEOGRAPHIC WILD
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691061&extension=ts&play_token=eQiaFSjoDU
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691060.png",NHK WORLD—JAPAN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691060&extension=ts&play_token=2OetRqM0hC
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691057.png",NUTA.TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691057&extension=ts&play_token=PS2VWFzdR8
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://logo.protv.cc/piconsnew/paramountnetworkpolska.png",PARAMOUNT NETWORK POLSKA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691056&extension=ts&play_token=aYGgRk1rYF
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691050.png",SCI FI
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691050&extension=ts&play_token=UAV1anPL9O
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://51.158.145.100/picons/logos/logos/SEJM-RP.png",SEJM RP
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691049&extension=ts&play_token=4588fsM8qF
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691048.png",STARS TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691048&extension=ts&play_token=ToNbvuSAJR
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691042.png",TV PULS
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691042&extension=ts&play_token=U8lr45HDH4
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691030.png",TVP 3 GORZÓW WIELKOPOLSKI
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691030&extension=ts&play_token=fICsPUEQSo
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691027.png",TVP 3 KRAKÓW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691027&extension=ts&play_token=6tZTSo2A90
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691025.png",TVP 3 LÓDZ
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691025&extension=ts&play_token=JUujR2PZTu
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691021.png",TVP 3 RZESZÓW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691021&extension=ts&play_token=iEb1q9ZVPd
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1691019.png",TVP 3 WROCLAW
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691019&extension=ts&play_token=xVX4I6Vqqg
-#EXTINF:-1 group-title="CANAL+ ONLINE ROZRYWKA" tvg-logo="http://picons.cmshulk.com/picons/1697624.png",FRANCE 24 ENG
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1697624&extension=ts&play_token=42L1byQqoe
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691176.png",CANAL+ EVENT 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691176&extension=ts&play_token=L44iDRvxfJ
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691175.png",CANAL+ EVENT 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691175&extension=ts&play_token=LrD27jyrzw
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691174.png",CANAL+ EVENT 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691174&extension=ts&play_token=RAVRJaBrMV
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://51.158.145.100/picons/logos/logos/canalplus.png",CANAL+ EVENT 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691173&extension=ts&play_token=5SadwJTLdI
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691171.png",CANAL+ EXTRA 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691171&extension=ts&play_token=6q6jTJDG8p
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691170.png",CANAL+ EXTRA 2
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691170&extension=ts&play_token=tSa7Om7Zjd
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691169.png",CANAL+ EXTRA 3
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691169&extension=ts&play_token=ZW2LxtVERe
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691168.png",CANAL+ EXTRA 4
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691168&extension=ts&play_token=bTPKzyJivD
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691167.png",CANAL+ EXTRA 5
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691167&extension=ts&play_token=pcGESJatDC
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691166.png",CANAL+ EXTRA 6
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691166&extension=ts&play_token=GkvfgBJ6Wq
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691165.png",CANAL+ EXTRA 7
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691165&extension=ts&play_token=1W7u1ZSkDL
-#EXTINF:-1 group-title="CANAL+ ONLINE SPORT" tvg-logo="http://picons.cmshulk.com/picons/1691164.png",CANAL+ SPORT 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1691164&extension=ts&play_token=mjuMqWkdMM
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/897006.png",ITVN
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897006&extension=ts&play_token=kkRXGRL1yu
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/897007.png",ITVN EXTRA
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897007&extension=ts&play_token=NnTRbGBhM4
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/1005093.png",TV RELAX
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1005093&extension=ts&play_token=AzPIbX1zPU
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://103.176.90.118/picons/logos/DAMI-TV.png",DAMI TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=1005092&extension=ts&play_token=OEwTml6w6q
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/897009.png",LUBELSKA TV
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897009&extension=ts&play_token=HTJ1sllWXy
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/897004.png",CHANNEL 13
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897004&extension=ts&play_token=4vLGuhBhDf
-#EXTINF:-1 group-title="KANAŁY (NA)" tvg-logo="http://picons.cmshulk.com/picons/897011.png",POLSAT 1
-http://42490-fred.oot-mx.me:80/play/live.php?mac=00:1A:79:EF:3D:73&stream=897011&extension=ts&play_token=s1t7XZhath
+#EXTINF:-1 ,TVP
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1 ,TVP 1
+http://185.236.229.62:9981/play/a05i
+#EXTINF:-1 ,TVP 2
+http://185.236.229.62:9981/play/a07p
+#EXTINF:-1 ,TV Republika
+http://185.236.229.62:9981/play/a027
+#EXTINF:-1 ,wPolsce 24
+http://185.236.229.62:9981/play/a022
+#EXTINF:-1 ,13 Ulica
+http://185.236.229.62:9981/play/a03o
+#EXTINF:-1 ,4Fun Dance
+http://185.236.229.62:9981/play/a020
+#EXTINF:-1 ,4Fun Kids
+http://185.236.229.62:9981/play/a01z
+#EXTINF:-1 ,4Fun.TV
+http://185.236.229.62:9981/play/a01y
+#EXTINF:-1 ,ADVENTURE
+http://185.236.229.62:9981/play/a049
+#EXTINF:-1 ,AMC
+http://185.236.229.62:9981/play/a05g
+#EXTINF:-1 ,AXN
+http://185.236.229.62:9981/play/a07a
+#EXTINF:-1 ,AXN Black
+http://185.236.229.62:9981/play/a075
+#EXTINF:-1 ,AXN SPIN
+http://185.236.229.62:9981/play/a044
+#EXTINF:-1 ,AXN White
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 ,Ale kino+
+http://185.236.229.62:9981/play/a056
+#EXTINF:-1 ,BBC Brit
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1 ,BBC CBeebies
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1 ,BBC Earth
+http://185.236.229.62:9981/play/a02o
+#EXTINF:-1 ,BBC FIRST
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 ,BBC Lifestyle
+http://185.236.229.62:9981/play/a06t
+#EXTINF:-1 ,BIKE
+http://185.236.229.62:9981/play/a04n
+#EXTINF:-1 ,BIZNES24
+http://185.236.229.62:9981/play/a02s
+#EXTINF:-1 ,Baby TV
+http://185.236.229.62:9981/play/a038
+#EXTINF:-1 ,CANAL+ DOKUMENT
+http://185.236.229.62:9981/play/a059
+#EXTINF:-1 ,CANAL+ DOMO
+http://185.236.229.62:9981/play/a05u
+#EXTINF:-1 ,CANAL+ FAMILY
+http://185.236.229.62:9981/play/a04z
+#EXTINF:-1 ,CANAL+ FILM
+http://185.236.229.62:9981/play/a04y
+#EXTINF:-1 ,CANAL+ KUCHNIA
+http://185.236.229.62:9981/play/a053
+#EXTINF:-1 ,CANAL+ NOW
+http://185.236.229.62:9981/play/a045
+#EXTINF:-1 ,CANAL+ PREMIUM
+http://185.236.229.62:9981/play/a04b
+#EXTINF:-1 ,CANAL+ SERIALE
+http://185.236.229.62:9981/play/a058
+#EXTINF:-1 ,CANAL+ SPORT 2
+http://185.236.229.62:9981/play/a05t
+#EXTINF:-1 ,CANAL+ SPORT 3
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1 ,CANAL+ SPORT 4
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1 ,CANAL+ SPORT 5
+http://185.236.229.62:9981/play/a05h
+#EXTINF:-1 ,CANAL+ SPORT
+http://185.236.229.62:9981/play/a04c
+#EXTINF:-1 ,CANAL+1
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1 ,CBS Europa
+http://185.236.229.62:9981/play/a06i
+#EXTINF:-1 ,CBS Reality
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1 ,CGTN
+http://185.236.229.62:9981/play/a08b
+#EXTINF:-1 ,CI Polsat
+http://185.236.229.62:9981/play/a07w
+#EXTINF:-1 ,CNBC
+http://185.236.229.62:9981/play/a04o
+#EXTINF:-1 ,CNN Europe
+http://185.236.229.62:9981/play/a076
+#EXTINF:-1 ,Can TV
+http://185.236.229.62:9981/play/a08o
+#EXTINF:-1 ,Cartoon Network
+http://185.236.229.62:9981/play/a06e
+#EXTINF:-1 ,Cartoonito
+http://185.236.229.62:9981/play/a02c
+#EXTINF:-1 ,Cinemax 2
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1 ,Cinemax
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1 ,Class TV Moda
+http://185.236.229.62:9981/play/a04s
+#EXTINF:-1 ,Comedy Central
+http://185.236.229.62:9981/play/a068
+#EXTINF:-1 ,Da Vinci
+http://185.236.229.62:9981/play/a024
+#EXTINF:-1 ,Dim TV
+http://185.236.229.62:9981/play/a04x
+#EXTINF:-1 ,Disco Polo Music
+http://185.236.229.62:9981/play/a078
+#EXTINF:-1 ,Disney Channel
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 ,Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 ,Disney XD
+http://185.236.229.62:9981/play/a07c
+#EXTINF:-1 ,Dla Ciebie TV
+http://185.236.229.62:9981/play/a04u
+#EXTINF:-1 ,E! Entertainment
+http://185.236.229.62:9981/play/a03j
+#EXTINF:-1 ,ELEVEN SPORTS 4
+http://185.236.229.62:9981/play/a046
+#EXTINF:-1 ,EURONEWS ITALIAN SD PAL 1.8
+http://185.236.229.62:9981/play/a06q
+#EXTINF:-1 ,Eko TV
+http://185.236.229.62:9981/play/a08h
+#EXTINF:-1 ,Eleven Sports 1
+http://185.236.229.62:9981/play/a05w
+#EXTINF:-1 ,Eleven Sports 2
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1 ,Eleven Sports 3
+http://185.236.229.62:9981/play/a061
+#EXTINF:-1 ,Epic Drama
+http://185.236.229.62:9981/play/a029
+#EXTINF:-1 ,Eska Rock
+http://185.236.229.62:9981/play/a08q
+#EXTINF:-1 ,Eska TV Extra
+http://185.236.229.62:9981/play/a021
+#EXTINF:-1 ,Eska TV
+http://185.236.229.62:9981/play/a02f
+#EXTINF:-1 ,Espresso TV
+http://185.236.229.62:9981/play/a04w
+#EXTINF:-1 ,Extreme Sports
+http://185.236.229.62:9981/play/a06h
+#EXTINF:-1 ,FX
+http://185.236.229.62:9981/play/a07u
+#EXTINF:-1 ,Fightbox
+http://185.236.229.62:9981/play/a03n
+#EXTINF:-1 ,Fightklub
+http://185.236.229.62:9981/play/a02l
+#EXTINF:-1 ,FilmBox Action
+http://185.236.229.62:9981/play/a033
+#EXTINF:-1 ,FilmBox Extra
+http://185.236.229.62:9981/play/a036
+#EXTINF:-1 ,FilmBox Family
+http://185.236.229.62:9981/play/a032
+#EXTINF:-1 ,Filmbox Arthouse
+http://185.236.229.62:9981/play/a028
+#EXTINF:-1 ,Filmbox Premium
+http://185.236.229.62:9981/play/a02x
+#EXTINF:-1 ,Fokus TV
+http://185.236.229.62:9981/play/a02g
+#EXTINF:-1 ,Food Network
+http://185.236.229.62:9981/play/a073
+#EXTINF:-1 ,Fx Comedy
+http://185.236.229.62:9981/play/a07t
+#EXTINF:-1 ,Golf Channel
+http://185.236.229.62:9981/play/a03m
+#EXTINF:-1 ,HBO
+http://185.236.229.62:9981/play/a06k
+#EXTINF:-1 ,HBO2
+http://185.236.229.62:9981/play/a05x
+#EXTINF:-1 ,HBO3
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 ,HOME TV
+http://185.236.229.62:9981/play/a048
+#EXTINF:-1 ,History 2
+http://185.236.229.62:9981/play/a03l
+#EXTINF:-1 ,History
+http://185.236.229.62:9981/play/a07v
+#EXTINF:-1 ,Horse TV
+http://185.236.229.62:9981/play/a04r
+#EXTINF:-1 ,KINO POLSKA
+http://185.236.229.62:9981/play/a05v
+#EXTINF:-1 ,Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+#EXTINF:-1 ,Kino TV
+http://185.236.229.62:9981/play/a031
+#EXTINF:-1 ,LN24SA
+http://185.236.229.62:9981/play/a04t
+#EXTINF:-1 ,Laayoune TV
+http://185.236.229.62:9981/play/a081
+#EXTINF:-1 ,MTV 00s
+http://185.236.229.62:9981/play/a066
+#EXTINF:-1 ,MTV 90s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 ,MTV Live
+http://185.236.229.62:9981/play/a063
+#EXTINF:-1 ,MTV Polska
+http://185.236.229.62:9981/play/a06b
+#EXTINF:-1 ,Metro
+http://185.236.229.62:9981/play/a06z
+#EXTINF:-1 ,Milady
+http://185.236.229.62:9981/play/a08i
+#EXTINF:-1 ,MiniMini+
+http://185.236.229.62:9981/play/a04e
+#EXTINF:-1 ,Motowizja
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 ,NATIONAL GEO
+http://185.236.229.62:9981/play/a04d
+#EXTINF:-1 ,NOVELAS+
+http://185.236.229.62:9981/play/a05a
+#EXTINF:-1 ,NUTA GOLD
+http://185.236.229.62:9981/play/a04k
+#EXTINF:-1 ,NUTA TV
+http://185.236.229.62:9981/play/a04j
+#EXTINF:-1 ,Nat Geo People
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 ,Nataly
+http://185.236.229.62:9981/play/a08j
+#EXTINF:-1 ,National Geographic Wild
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 ,Nick Jr
+http://185.236.229.62:9981/play/a065
+#EXTINF:-1 ,Nick Music
+http://185.236.229.62:9981/play/a064
+#EXTINF:-1 ,Nickelodeon
+http://185.236.229.62:9981/play/a067
+#EXTINF:-1 ,Nicktoons
+http://185.236.229.62:9981/play/a06a
+#EXTINF:-1 ,Nowa TV
+http://185.236.229.62:9981/play/a02h
+#EXTINF:-1 ,POWER TV
+http://185.236.229.62:9981/play/a04i
+#EXTINF:-1 ,Paramount Network Polska
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1 ,Planete+
+http://185.236.229.62:9981/play/a052
+#EXTINF:-1 ,Polo TV
+http://185.236.229.62:9981/play/a02e
+#EXTINF:-1 ,Polsat 2
+http://185.236.229.62:9981/play/a042
+#EXTINF:-1 ,Polsat Cafe
+http://185.236.229.62:9981/play/a03z
+#EXTINF:-1 ,Polsat Comedy Central Extra
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1 ,Polsat Doku
+http://185.236.229.62:9981/play/a07z
+#EXTINF:-1 ,Polsat Film
+http://185.236.229.62:9981/play/a040
+#EXTINF:-1 ,Polsat Games
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1 ,Polsat
+http://185.236.229.62:9981/play/a03v
+#EXTINF:-1 ,Polsat Jim Jam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1 ,Polsat Music
+http://185.236.229.62:9981/play/a02b
+#EXTINF:-1 ,Polsat News 2
+http://185.236.229.62:9981/play/a03u
+#EXTINF:-1 ,Polsat News
+http://185.236.229.62:9981/play/a041
+#EXTINF:-1 ,Polsat News Polityka
+http://185.236.229.62:9981/play/a07h
+#EXTINF:-1 ,Polsat Play
+http://185.236.229.62:9981/play/a03w
+#EXTINF:-1 ,Polsat Rodzina
+http://185.236.229.62:9981/play/a079
+#EXTINF:-1 ,Polsat Seriale
+http://185.236.229.62:9981/play/a07b
+#EXTINF:-1 ,Polsat Sport Extra
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 ,Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 ,Polsat Sport
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 ,Polsat Sport News
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://185.236.229.62:9981/play/a03r
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://185.236.229.62:9981/play/a03s
+#EXTINF:-1 ,Polsat Sport Premium PPV3
+http://185.236.229.62:9981/play/a03p
+#EXTINF:-1 ,Polsat Sport Premium PPV4
+http://185.236.229.62:9981/play/a03q
+#EXTINF:-1 ,Polsat Sport Premium PPV5
+http://185.236.229.62:9981/play/a07x
+#EXTINF:-1 ,Polsat Sport Premium PPV6
+http://185.236.229.62:9981/play/a07y
+#EXTINF:-1 ,Polsat Viasat Explore
+http://185.236.229.62:9981/play/a07i
+#EXTINF:-1 ,Polsat Viasat History
+http://185.236.229.62:9981/play/a07o
+#EXTINF:-1 ,Polsat Viasat Nature
+http://185.236.229.62:9981/play/a06g
+#EXTINF:-1 ,Provence
+http://185.236.229.62:9981/play/a08k
+#EXTINF:-1 ,Puls 2
+http://185.236.229.62:9981/play/a02y
+#EXTINF:-1 ,Red Carpet TV
+http://185.236.229.62:9981/play/a02q
+#EXTINF:-1 ,Romance TV
+http://185.236.229.62:9981/play/a05j
+#EXTINF:-1 ,STARS.TV
+http://185.236.229.62:9981/play/a01x
+#EXTINF:-1 ,SciFi
+http://185.236.229.62:9981/play/a03k
+#EXTINF:-1 ,Sportklub
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 ,Stopklatka
+http://185.236.229.62:9981/play/a023
+#EXTINF:-1 ,StudioMed TV
+http://185.236.229.62:9981/play/a050
+#EXTINF:-1 ,Sundance
+http://185.236.229.62:9981/play/a03i
+#EXTINF:-1 ,Super Polsat
+http://185.236.229.62:9981/play/a043
+#EXTINF:-1 ,THT
+http://185.236.229.62:9981/play/a08a
+#EXTINF:-1 ,TTV
+http://185.236.229.62:9981/play/a071
+#EXTINF:-1 ,TV CORAN
+http://185.236.229.62:9981/play/a088
+#EXTINF:-1 ,TV Okazje
+http://185.236.229.62:9981/play/a07m
+#EXTINF:-1 ,TV PULS
+http://185.236.229.62:9981/play/a034
+#EXTINF:-1 ,TV4
+http://185.236.229.62:9981/play/a03x
+#EXTINF:-1 ,TV6
+http://185.236.229.62:9981/play/a03y
+#EXTINF:-1 ,TVC
+http://185.236.229.62:9981/play/a04l
+#EXTINF:-1 ,TVN 24
+http://185.236.229.62:9981/play/a06x
+#EXTINF:-1 ,TVN 7
+http://185.236.229.62:9981/play/a06y
+#EXTINF:-1 ,TVN Fabula
+http://185.236.229.62:9981/play/a070
+#EXTINF:-1 ,TVN
+http://185.236.229.62:9981/play/a06u
+#EXTINF:-1 ,TVN STYLE
+http://185.236.229.62:9981/play/a06v
+#EXTINF:-1 ,TVN TURBO
+http://185.236.229.62:9981/play/a06w
+#EXTINF:-1 ,TVP 3
+http://185.236.229.62:9981/play/a060
+#EXTINF:-1 ,TVP ABC
+http://185.236.229.62:9981/play/a02z
+#EXTINF:-1 ,TVP Dokument
+http://185.236.229.62:9981/play/a05b
+#EXTINF:-1 ,TVP Historia
+http://185.236.229.62:9981/play/a035
+#EXTINF:-1 ,TVP Info
+http://185.236.229.62:9981/play/a02j
+#EXTINF:-1 ,TVP Kultura
+http://185.236.229.62:9981/play/a02t
+#EXTINF:-1 ,TVP Polonia
+http://185.236.229.62:9981/play/a08m
+#EXTINF:-1 ,TVP Rozrywka
+http://185.236.229.62:9981/play/a026
+#EXTINF:-1 ,TVP Seriale
+http://185.236.229.62:9981/play/a02w
+#EXTINF:-1 ,TVP Sport
+http://185.236.229.62:9981/play/a05l
+#EXTINF:-1 ,TVS
+http://185.236.229.62:9981/play/a02p
+#EXTINF:-1 ,Tamazight
+http://185.236.229.62:9981/play/a087
+#EXTINF:-1 ,TeenNick
+http://185.236.229.62:9981/play/a055
+#EXTINF:-1 ,Travel Channel
+http://185.236.229.62:9981/play/a072
+#EXTINF:-1 ,VOX Music TV
+http://185.236.229.62:9981/play/a02d
+#EXTINF:-1 ,Vatican Media Europa
+http://185.236.229.62:9981/play/a06o
+#EXTINF:-1 ,WP
+http://185.236.229.62:9981/play/a02u
+#EXTINF:-1 ,Warner TV
+http://185.236.229.62:9981/play/a06d
+#EXTINF:-1 ,Wydarzenia 24
+http://185.236.229.62:9981/play/a06j
+#EXTINF:-1 ,Zoom TV
+http://185.236.229.62:9981/play/a02a
+#EXTINF:-1 ,teleTOON+
+http://185.236.229.62:9981/play/a051
