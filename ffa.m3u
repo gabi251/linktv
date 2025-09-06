@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png" group-title="OGÓLNE",TVP
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727230&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="OGÓLNE",TVP 1
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727957&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="OGÓLNE",TVP 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727956&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TVPInfo.pl.png" group-title="OGÓLNE",TVP INFO
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727952&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="OGÓLNE",TV REPUBLIKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727967&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://62.210.38.80/picon/wpolsce24.png" group-title="OGÓLNE",wPolsce 24
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727946&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+24+HD.png" group-title="OGÓLNE",TVN 24
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727964&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN+24+BiS.png" group-title="OGÓLNE",TVN 24 BIS
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727958&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+News.png" group-title="OGÓLNE",POLSAT NEWS
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727999&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/POLSAT+NEWS+2.png" group-title="OGÓLNE",POLSAT NEWS 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728000&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/640px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="OGÓLNE",POLSAT NEWS POLITYKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=736837&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TVP_Kobieta.png" group-title="OGÓLNE",TVP KOBIETA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=793749&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Kultura.png" group-title="OGÓLNE",TVP KULTURA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727951&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TVPKultura2.pl.png" group-title="OGÓLNE",TVP KULTURA 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101134&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png" group-title="OGÓLNE",TVP POLONIA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=791612&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TVPRozrywka.pl.png" group-title="OGÓLNE",TVP ROZRYWKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1112798&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Wilno.png" group-title="OGÓLNE",TVP WILNO
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101137&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://iptvboss.xyz/logos/Poland/TVPAlfa.pl.png" group-title="OGÓLNE",TVP ALFA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101132&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/tv-4_v2.png" group-title="OGÓLNE",TV4
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727966&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+6.png" group-title="OGÓLNE",TV6
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727965&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728003&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/Polsat1.pl.png" group-title="OGÓLNE",POLSAT 1
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101130&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+2.png" group-title="OGÓLNE",POLSAT 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728007&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/180px-Polsat_Film_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT FILM
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728002&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Polsat_Film_2_rekonstrukcja.svg/1200px-Polsat_Film_2_rekonstrukcja.svg.png" group-title="OGÓLNE",POLSAT FILM 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1107280&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/189px-Polsat_Seriale_2021_gradient.svg.png" group-title="OGÓLNE",POLSAT SERIALE
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727996&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Polsat_Reality_2025_gradient_rekonstrukcja.svg/1200px-Polsat_Reality_2025_gradient_rekonstrukcja.svg.png" group-title="OGÓLNE",POLSAT REALITY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1107282&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Super+Polsat.png" group-title="OGÓLNE",SUPER POLSAT
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727975&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Polsat_X_2025_gradient_rekonstrukcja.svg/250px-Polsat_X_2025_gradient_rekonstrukcja.svg.png" group-title="OGÓLNE",POLSAT X
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1107281&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Caf%C3%A9.png" group-title="OGÓLNE",POLSAT CAFE
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728006&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Play.png" group-title="OGÓLNE",POLSAT PLAY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727998&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Rodzina.png" group-title="OGÓLNE",POLSAT RODZINA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727997&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVN.png" group-title="OGÓLNE",TVN
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727961&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/512px-TVN7_logo_2021.svg.png" group-title="OGÓLNE",TVN 7
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727963&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/et0krxsb2dvLW1pZ3JhdGVkL3R2bi1mYWJ1bGEucG5nkpUCZADCw5UCACjCww" group-title="OGÓLNE",TVN FABUŁA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727962&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://sltv-logo.cms-s.com/logo/POLONIA/TVNSTYLE.png" group-title="OGÓLNE",TVN STYLE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727960&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/4qtR66S.png" group-title="OGÓLNE",TVN TURBO
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727959&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/1/1a/240px-ITVN_logo-0.png/revision/latest?cb=20190901102636&path-prefix=pl" group-title="OGÓLNE",iTVN
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=773444&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/iTVNExtraInternational.pl.png" group-title="OGÓLNE",iTVN EXTRA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=793750&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TTV.png" group-title="OGÓLNE",TTV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727969&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TV+Puls.png" group-title="OGÓLNE",TV PULS
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727968&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Puls+2.png" group-title="OGÓLNE",PULS 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727983&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Tele+5.png" group-title="OGÓLNE",TELE 5
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727974&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="OGÓLNE",POLONIA 1
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1013576&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVS.png" group-title="OGÓLNE",TVS
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727948&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ibb.co/WD6RVVy/TVC-logo.png" group-title="OGÓLNE",TVC
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=790653&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.tvpolsat.info/wp-content/uploads/2024/04/tvc-super-logo.png" group-title="OGÓLNE",TVC SUPER
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1112795&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1647954908_271.png" group-title="OGÓLNE",KABARET TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101129&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/ViDoc+TV.png" group-title="OGÓLNE",VIDOCTV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100985&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://telewizjabiznesowa.pl/wp-content/uploads/2023/10/logo-org-3d-ns-sm1.png" group-title="OGÓLNE",TELEWIZJA BIZNESOWA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101140&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Super+Express+TV.png" group-title="OGÓLNE",SUPER EXPRESS TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101139&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/News24.png" group-title="OGÓLNE",NEWS 24
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101138&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Biznes_24_logo.jpg/240px-Biznes_24_logo.jpg" group-title="OGÓLNE",BIZNES 24
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=736838&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/WP.png" group-title="OGÓLNE",WP
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=736841&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/Wtk.pl.png" group-title="OGÓLNE",WTK
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1112800&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://wielkopolska.tv/wp-content/uploads/2021/01/tv_wielkopolska-2048x272.png" group-title="OGÓLNE",WIELKOPOLSKA TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101001&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/dlaCiebie.tv.pl.png" group-title="OGÓLNE",DLACIEBIE.TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100999&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TWOJA+TV.png" group-title="OGÓLNE",TWOJA.TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101002&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TVTorun.pl.png" group-title="OGÓLNE",TV TORUŃ
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101003&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://static.wirtualnemedia.pl/media/top/TVRegio-655.png" group-title="OGÓLNE",TV REGIO
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1112801&extension=ts&play_token=jrsTnLiM1g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3ed508e70ca33943ea85c89c720173ba.png" group-title="OGÓLNE",TV TRWAM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0americanpieestreamlogo.png" group-title="FILMOWE",AMERICAN PIE
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=855027&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0jasonstathamstreamlogo.png" group-title="FILMOWE",JASON STATHAM
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=847752&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0szybcywscieklistreamlogo.png" group-title="FILMOWE",SZYBCY I WŚCIEKLI
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=830472&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0akcjafilmystreamlogo.png" group-title="FILMOWE",AKCJA FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=833018&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0komediafilmystreamlogo.png" group-title="FILMOWE",KOMEDIA FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=835205&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0familijnestreamlogo.png" group-title="FILMOWE",FAMILIJNE FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=847642&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0kryminalstreamlogo.png" group-title="FILMOWE",KRYMINAŁ FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=836455&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0wojennefilmystreamlogo.png" group-title="FILMOWE",WOJENNE FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=847640&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0horrorfilmystreamlogo.png" group-title="FILMOWE",HORROR FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=842873&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0scififilmystreamlogo.png" group-title="FILMOWE",SCI-FI FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=847641&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/created.channel/0animowanestreamlogo.png" group-title="FILMOWE",ANIMOWANE FILMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=834784&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a716feb-6064-4d91-88d3-2fc0bc8439ef/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="FILMOWE",GRJNGO WESTERNY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100990&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/Movies-HD.jpg" group-title="FILMOWE",TOP MOVIES POLSKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100991&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BjgTjme.png" group-title="FILMOWE",BJGTJME
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100987&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/Bollywood.pl.png" group-title="FILMOWE",BOLLYWOOD
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100984&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png" group-title="FILMOWE",CANAL+ 4K ULTRA 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=736518&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal+.png" group-title="FILMOWE",CANAL+ PREMIUM  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728082&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal+1.png" group-title="FILMOWE",CANAL+ 1  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728076&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Film.png" group-title="FILMOWE",CANAL+ FILM 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728084&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Seriale.png" group-title="FILMOWE",CANAL+ SERIALE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728081&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/CANAL%2BNOW.pl.png" group-title="FILMOWE",CANAL+ NOW 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728083&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="FILMOWE",HBO  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728034&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="FILMOWE",HBO 2 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728033&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/3QIHh2V.png" group-title="FILMOWE",HBO 3  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728032&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="FILMOWE",CINEMAX  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728070&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/512px-Cinemax_2_%282016%29.png" group-title="FILMOWE",CINEMAX 2  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728071&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/OB83whP.png" group-title="FILMOWE",FILMBOX PREMIUM
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728039&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/ML7SlIW.png" group-title="FILMOWE",FILMBOX EXTRA 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728041&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/y7VMgXK.png" group-title="FILMOWE",FILMBOX ACTION
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728043&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/hDg35ne.png" group-title="FILMOWE",FILMBOX ARTHOUSE
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728042&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/CGFyAyc.png" group-title="FILMOWE",FILMBOX FAMILY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728040&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.filmcafetv.pl/pictures/programs/big/film_cafe.jpg" group-title="FILMOWE",FILM CAFE  
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1095070&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/WarnerTV.pl.png" group-title="FILMOWE",WARNER TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101150&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="FILMOWE",AXN 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728093&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+Spin.png" group-title="FILMOWE",AXN SPIN 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728092&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+Black.png" group-title="FILMOWE",AXN BLACK
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728094&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/AXN+White.png" group-title="FILMOWE",AXN WHITE
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728091&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/FOX.png" group-title="FILMOWE",FX 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728036&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/FOXComedy.pl.png" group-title="FILMOWE",FX COMEDY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728035&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Kino+TV.png" group-title="FILMOWE",KINO TV 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728026&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Kino+Polska.png" group-title="FILMOWE",KINO POLSKA 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728028&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Ale+Kino+.png" group-title="FILMOWE",ALE KINO+ 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728098&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Paramount+Channel.png" group-title="FILMOWE",PARAMOUNT NETWORK 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728010&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Scifi+Universal.png" group-title="FILMOWE",SCI FI 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727980&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="FILMOWE",AMC 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728097&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/qqNsIkx.png" group-title="FILMOWE",STOPKLATKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727977&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/VOD+205.png" group-title="FILMOWE",VOD 205
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=774726&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/VOD+206.png" group-title="FILMOWE",VOD 206
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=774727&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/VOD+207.png" group-title="FILMOWE",VOD 207
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=774728&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/VOD+208.png" group-title="FILMOWE",VOD 208
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=774729&extension=ts&play_token=tONMw08lmE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TBNPolska.pl.png" group-title="DOKUMENTALNE",TBN POLSKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101015&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Nauka.png" group-title="DOKUMENTALNE",TVP NAUKA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101135&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/oQUNtzs.png" group-title="DOKUMENTALNE",TVP DOKUMENT 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=993204&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TVP+Historia.png" group-title="DOKUMENTALNE",TVP HISTORIA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727953&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/TVPHistoria2.pl.png" group-title="DOKUMENTALNE",TVP HISTORIA 2
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1101133&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://5.imimg.com/data5/SELLER/Logo/2022/8/RM/LC/UX/10088274/royal-logo.jpg" group-title="DOKUMENTALNE",ROYAL WORLD TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100996&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/DocuBox.pl.png" group-title="DOKUMENTALNE",DOCUBOX
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100993&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Moconomy.png" group-title="DOKUMENTALNE",MOCONOMY
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100992&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/ID.png" group-title="DOKUMENTALNE",ID 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728029&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cipolsat.jpg/240px-Cipolsat.jpg" group-title="DOKUMENTALNE",CI POLSAT 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728072&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/512px-Polsat_Doku_2021_gradient.svg.png" group-title="DOKUMENTALNE",POLSAT DOKU 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728004&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="DOKUMENTALNE",POLSAT VIASAT HISTORY 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727SAT EXPLORE 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Polsat+Viasat+Nature.png" group-title="DOKUMENTALNE",POLSAT VIASAT NATURE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727984&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="DOKUMENTALNE",POLSAT VIAoken=ZulaxwgZQh
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Viasat+True+Crime.png" group-title="DOKUMENTALNE",VIASAT TRUE CRIME
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=1100994&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/Iz2BxbR.png" group-title="DOKUMENTALNE",CANAL+ DOMO 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728059&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Canal++Dokument.png" group-title="DOKUMENTALNE",CANAL+ DOKUMENT 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728086&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Kuchnia+.png" group-title="DOKUMENTALNE",CANAL+ KUCHNIA 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728025&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="DOKUMENTALNE",FOOD NETWORK 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728037&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Channel.png" group-title="DOKUMENTALNE",DISCOVERY 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728066&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="DOKUMENTALNE",DISCOVERY SCIENCE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728063&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Discovery+Life.png" group-title="DOKUMENTALNE",DISCOVERY LIFE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728064&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/DiscoveryHistoria.pl.png" group-title="DOKUMENTALNE",DISCOVERY HISTORIA
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728065&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/AnimalPlanet.pl.png" group-title="DOKUMENTALNE",ANIMAL PLANET 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728096&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/National+Geographic+Channel+HD.png" group-title="DOKUMENTALNE",NATIONAL GEOGRAPHIC 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728020&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/wOKc3lV.png" group-title="DOKUMENTALNE",NATIONAL GEOGRAPHIC WILD
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728018&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Nat+Geo+People.png" group-title="DOKUMENTALNE",NAT GEO PEOPLE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728019&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Planete+.png" group-title="DOKUMENTALNE",PLANETE+ 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728009&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/BBCEarth.pl.png" group-title="DOKUMENTALNE",BBC EARTH 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728088&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/BBC+First.png" group-title="DOKUMENTALNE",BBC FIRST 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727944&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/BBCBrit.pl.png" group-title="DOKUMENTALNE",BBC BRIT 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728090&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/512px-Travel_Channel_logo-cerulean_blue.png" group-title="DOKUMENTALNE",TRAVEL CHANNEL 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727970&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/Adventure.png" group-title="DOKUMENTALNE",ADVENTURE 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728099&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/512px-DTX_Logo.png" group-title="DOKUMENTALNE",DTX 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728058&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/HISTORY.png" group-title="DOKUMENTALNE",HISTORY 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728030&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/H2.png" group-title="DOKUMENTALNE",H2 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=741345&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/TLC.png" group-title="DOKUMENTALNE",TLC 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=727972&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://epg.ovh/logo/E!+Entertainment.png" group-title="DOKUMENTALNE",E! ENTERTAINMENT 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728057&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://iptvboss.xyz/logos/Poland/CBSReality.pl.png" group-title="DOKUMENTALNE",CBS REALITY 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728073&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://str.lynxtv.pro/images/picon/LYNX/NL/DOCU.REALITY/hgtv.png" group-title="DOKUMENTALNE",HGTV 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=728031&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/qAFR1Cr.png" group-title="DOKUMENTALNE",HOME TV
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=852120&extension=ts&play_token=ZulaxwgZQh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/aHA4LkS.png" group-title="DOKUMENTALNE",TRAVELXP 
+http://palavip.org:8080/play/live.php?mac=00:1A:79:B3:1F:E1&stream=852187&extension=ts&play_token=ZulaxwgZQh
