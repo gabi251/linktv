@@ -1,605 +1,390 @@
 #EXTM3U url-tvg="https://epg.ovh/pltv.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TV Republika
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",wPolsce 24  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/211945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/149927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVN 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/149925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVN 7
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVN Style
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVN Turbo
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",iTVN
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/21520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",iTVN Extra
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/17188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TV 4
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TTV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat Play
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat Cafe
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/82459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat Rodzina
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat Reality
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polsat X
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Super Polsat
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP Kobieta
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/112927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVP Na Dobre i Na Złe 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/214455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Fokus TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Antena
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP 3 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Tele 5
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TV 6
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Metro
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Nowa TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",WP
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Zoom TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TV Puls
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Puls 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/144521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVP Polonia
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/146067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",Polonia 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/146069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVS
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",13 TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/149929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TVN Rewolucje w Kuchni
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Kryminalnie
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Kultowe Seriale
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Rajska Miłość
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Momenty Prawdy
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Życie Jak w Bajce
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Talk Show
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Telenowele
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Szpitalne Historie
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Seriale o Kobietach
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Szkoła Życia
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN W Domu
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Moto
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Usterka
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Prawo i Życie
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/166945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Milionerzy
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/155390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Pora na Show
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/160759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Czas Na Ślub
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/175408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Kulinarne Podróże
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/175409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Patrol
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/175410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Brzydula
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/214456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 TVN Player",TVN Mam Talent
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/214457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",TV Trwam
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Ogólnotematyczne",EWTN Polska
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/166947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TVN 24
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TVN 24 BIS
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/89113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Polsat News
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Polsat News 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Polsat News Polityka
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/151606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Wydarzenia 24
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TVP Info
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TV Republika Plus
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Super Expres
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/177860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",wPolsce pl
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Biznes 24
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Telewizja Biznesowa
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TVP Parlament 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/158752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",News 24
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/120212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",TVP World
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/23393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📺 Informacyjne",Pogoda 24 TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ Premium
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ Film
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ 360
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/21515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Canal+ Seriale
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Polsat Seriale
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",TVP Seriale
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Cinemax
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Cinemax 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",HBO  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",HBO 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/43562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",HBO 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Showtime 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/177861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Showtime 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/177862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Kino Polska
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Polsat Film
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Polsat Film 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Warner TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Paramount Network
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Epic Drama
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",TVN Fabuła
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",AMC
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Film Cafe
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Filmbox Premium
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Filmbox Extra
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Filmbox Action
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",FilmBox Family
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Filmbox Arthouse
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",AXN  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",AXN White
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",AXN Black
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",AXN Spin
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Stopklatka TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Comedy Central
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Comedy Central Extra
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",FX
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",FX Comedy
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",SCI FI
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Kino TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Ale Kino+
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Novela TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Novelas+
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Novelas+1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",ViDocTV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/161993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",ViDocTV 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/149998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Romance TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Bollywood
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/23392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",FilMax
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/144520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Filmax 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",BjgTjme
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Grjngo Westerny
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Top Movies Polska
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/144522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 202
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/144525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 203
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/159335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 204
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 205
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 206
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 207
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",VOD 208
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Egzorcysta (+16 )
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Kapitan Bomba (+16)
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎬 Filmowe",Porucznik Kabura (+16)  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/203108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",National Geographic
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Nat Geo People
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Nat Geo Wild
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/153052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Discovery Channel
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Discovery Historia
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Discovery Life
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Discovery Science
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",BBC First
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",BBC Earth
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",BBC Brit
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",BBC Lifestyle
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/79379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Royal World TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/180552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Polsat Doku
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Polsat Viasat Explore
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Polsat Viasat History
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Polsat Viasat Nature
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Viasat Explore Classic
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/181488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Viasat True Crime
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/161995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Docubox
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/143430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Canal+ Dokument
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TVP Dokument
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Water Planet
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Planete+
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Animal Planet
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",History
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",History 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Love Nature
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Love Nature 4k
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/142202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",MyZen TV 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/142203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Museum 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TravelXP 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Travel Channel
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TVP Nauka
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/61493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Crime+Investigation
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",CBS Reality
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",ID Poland
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TVP Historia
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TVC Super
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/160055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",TVP Historia 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/40770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Moconomy
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",DTX
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",StudioMed TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/165513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Kultura",Murator TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Sport 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Sport 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Sport 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Sport 4
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Sport 5
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 1 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/181666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 2 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/181667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 3 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/181668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 4 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/184516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 5 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/184517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 6 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/184518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 7 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/184519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 8 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 9 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 10 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 11 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 12 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 13 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 14 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 15 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 16 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 17 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",C+ Ekstra 18 
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Canal+ Now
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eurosport 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eurosport 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eleven Sports 1 4K
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/5049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eleven Sports 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eleven Sports 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eleven Sports 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Eleven Sports 4
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 4
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 5
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 6
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/201328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 7
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 8
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 9
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",ElevenSport ( online ) 10
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",TVP Sport
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 1
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 3
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 4
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 5
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Premium 6
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Sport Fight
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",FightKlub
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",FightBox
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Extreme Sports
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",SportKlub
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Motowizja
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",E-Sport
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/104732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Gametoon
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/104734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Polsat Games
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Sportowa.TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/24070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="⚽️ Sportowe",Golf Zone
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",13 Ulica
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Adventure
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",TLC
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",HGTV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Home TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/9318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",E! Entertainment
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Sundance TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Canal+ Domo
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Canal+ Kuchnia
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Food Network
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Xtreme TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",OutdoorTV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",TBN Polska
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",CTV - Dla Ciebie
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Kabaret TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/120227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",TVP Rozrywka
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Active Family
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",TVP Kultura
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",TVP Kultura 2
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/21524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Red Carpet TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Red Carpet International (test)
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/202711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🎱 Rozrywka",Poradnik Zdrowie
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/199682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="🏡 Regionalne",WTK
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/152635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",New TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/210247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Truso TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/210248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Asta Tv
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/203821.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Twoja.TV  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Toya  
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ProArt   
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/203820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Wielkopolska TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/181887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Echo 24
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/150333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVT
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/21523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tv MN
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/164191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVC
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/152790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DlaCiebie.TV
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/24360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Toruń
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/147319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Wilno
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/154746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Regio
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/158753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Białystok
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Bydgoszcz
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Gdańsk
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Gorzów Wielkopolski
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Katowice
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Kielce
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Kraków
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Lublin
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Łódź
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Olsztyn
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Opole
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Poznań
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Rzeszów
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Szczecin
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Warszawa
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Wrocław
-http://piranha.mobi/live/LukaszFit/3b6204115e0702fc/16898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="📽️ Monitoring",Kamera Zalewo
-https://s1.worldcam.live:8082/zalewo-fontanna/tracks-v1/mono.m3u8
+#EXTINF:-1 ,TVP
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/126
+#EXTINF:-1 ,TVP 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/149
+#EXTINF:-1 ,TVP 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/147
+#EXTINF:-1 ,TVN 24
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/161
+#EXTINF:-1 ,TVN 24 BiS
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/159
+#EXTINF:-1 ,TV Republika
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/154
+#EXTINF:-1 ,Polsat News
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/158
+#EXTINF:-1 ,Polsat News 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/156
+#EXTINF:-1 ,Polsat News Polityka
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/152
+#EXTINF:-1 ,Wydarzenia 24
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/713756
+#EXTINF:-1 ,TVP Info
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/709746
+#EXTINF:-1 ,Echo 24 HD
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/907638
+#EXTINF:-1 ,Super Express TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/915773
+#EXTINF:-1 ,wPolsce24
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/153
+#EXTINF:-1 ,News24
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/865782
+#EXTINF:-1 ,Biznes24
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/150
+#EXTINF:-1 ,TVBiznesowa
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/792824
+#EXTINF:-1 ,Sejm RP ( Live only )
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/693087
+#EXTINF:-1 ,TVP Parlament - Senat ( Live only )
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1046956
+#EXTINF:-1 ,Polsat
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/145
+#EXTINF:-1 ,Polsat 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/470981
+#EXTINF:-1 ,Polsat 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/143
+#EXTINF:-1 ,TVN
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1127441
+#EXTINF:-1 ,iTVN
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/140
+#EXTINF:-1 ,iTVN Extra
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/6355
+#EXTINF:-1 ,TVN 7
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/139
+#EXTINF:-1 ,TVN Style
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/137
+#EXTINF:-1 ,TVN Turbo
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/135
+#EXTINF:-1 ,TTV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/133
+#EXTINF:-1 ,TV 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/132
+#EXTINF:-1 ,TV Puls
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/131
+#EXTINF:-1 ,Puls 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/130
+#EXTINF:-1 ,Polsat Cafe
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/129
+#EXTINF:-1 ,Polsat Play
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/128
+#EXTINF:-1 ,Polsat Rodzina
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/2718
+#EXTINF:-1 ,Polsat Games
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/127
+#EXTINF:-1 ,TV 6
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/122
+#EXTINF:-1 ,TVP 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/125
+#EXTINF:-1 ,TVP Kobieta
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/37930
+#EXTINF:-1 ,TVP Rozrywka
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/124
+#EXTINF:-1 ,Food Network
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/113
+#EXTINF:-1 ,Canal+ Kuchnia
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/117
+#EXTINF:-1 ,Canal+ Domo
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/116
+#EXTINF:-1 ,HGTV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/115
+#EXTINF:-1 ,Home TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/114
+#EXTINF:-1 ,Active Family
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/112
+#EXTINF:-1 ,Kabaret TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/828872
+#EXTINF:-1 ,Antena TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/36868
+#EXTINF:-1 ,Xtreme TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/952508
+#EXTINF:-1 ,TLC
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/123
+#EXTINF:-1 ,Super Polsat
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/121
+#EXTINF:-1 ,WP
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/111
+#EXTINF:-1 ,Zoom TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/110
+#EXTINF:-1 ,E! Entertainment
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/109
+#EXTINF:-1 ,Nowa TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/108
+#EXTINF:-1 ,Metro
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/107
+#EXTINF:-1 ,TVP Kultura
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/106
+#EXTINF:-1 ,TVP Kultura 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/36263
+#EXTINF:-1 ,TVP Polonia
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/105
+#EXTINF:-1 ,Murator TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/915774
+#EXTINF:-1 ,Poradnik Zdrowie
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/915775
+#EXTINF:-1 ,13.TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/414498
+#EXTINF:-1 ,Tele 5
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/104
+#EXTINF:-1 ,Polonia 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/103
+#EXTINF:-1 ,TBN Polska
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/102
+#EXTINF:-1 ,TVC
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/327960
+#EXTINF:-1 ,TVC Super
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/794609
+#EXTINF:-1 ,TV Trwam
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/101
+#EXTINF:-1 ,EWTN Polska
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/886548
+#EXTINF:-1 ,CTV - Dla Ciebie
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/681838
+
+#EXTINF:-1 ,Canal+ Sport
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/196
+#EXTINF:-1 ,Canal+ Sport 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/195
+#EXTINF:-1 ,Canal+ Sport 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/194
+#EXTINF:-1 ,Canal+ Sport 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/193
+#EXTINF:-1 ,Canal+ Sport 5
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/192
+#EXTINF:-1 ,Canal+ Now
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/191
+#EXTINF:-1 ,Polsat Sport 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/190
+#EXTINF:-1 ,Polsat Sport 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/188
+#EXTINF:-1 ,Polsat Sport 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/186
+#EXTINF:-1 ,Polsat Sport Fight
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/187
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/185
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/184
+#EXTINF:-1 ,Polsat Sport Extra 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/181
+#EXTINF:-1 ,Polsat Sport Extra 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/180
+#EXTINF:-1 ,Polsat Sport Extra 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/183
+#EXTINF:-1 ,Polsat Sport Extra 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/182
+#EXTINF:-1 ,Eleven Sports 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/179
+#EXTINF:-1 ,Eleven Sports 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/178
+#EXTINF:-1 ,Eleven Sports 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/177
+#EXTINF:-1 ,Eleven Sports 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/176
+#EXTINF:-1 ,Eurosport 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/174
+#EXTINF:-1 ,Eurosport 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/173
+#EXTINF:-1 ,TVP Sport
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/172
+#EXTINF:-1 ,SportKlub
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/170
+#EXTINF:-1 ,Extreme Sports
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/169
+#EXTINF:-1 ,FightBox
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/168
+#EXTINF:-1 ,FightKlub
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/167
+#EXTINF:-1 ,Motowizja
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/166
+#EXTINF:-1 ,Sportowa.TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/712271
+#EXTINF:-1 ,B@rca T\/ ( Live Only )
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1079926
+#EXTINF:-1 ,Real Madrid TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/539210
+#EXTINF:-1 ,Gametoon
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/163
+#EXTINF:-1 ,C4NAL+ Extra 1 ( Live Only )
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/909840
+#EXTINF:-1 ,C4NAL+ Extra 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/988183
+#EXTINF:-1 ,C4NAL+ Extra 2 ( Live Only )
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/909839
+#EXTINF:-1 ,C4NAL+ Extra 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1094023
+#EXTINF:-1 ,C4NAL+ Extra 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/909838
+#EXTINF:-1 ,CANAL+ Extra 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1094024
+#EXTINF:-1 ,C4NAL+ Extra 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/909837
+#EXTINF:-1 ,Canal+ Online Events 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/9212
+#EXTINF:-1 ,Canal+ Online Events 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/9213
+#EXTINF:-1 ,Canal+ Online Events 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/9214
+#EXTINF:-1 ,Canal+ Online Events 4
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/9215
+#EXTINF:-1 ,TVPSport.pl 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/935840
+#EXTINF:-1 ,TVPSport.pl 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/935841
+#EXTINF:-1 ,TVPSport.pl 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/939362
+#EXTINF:-1 ,Discovery Channel
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/220
+#EXTINF:-1 ,DTX
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/216
+#EXTINF:-1 ,History
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/215
+#EXTINF:-1 ,History 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/214
+#EXTINF:-1 ,TVP Historia
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/206
+#EXTINF:-1 ,TVP Historia 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/164247
+#EXTINF:-1 ,TVP Nauka
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/437026
+#EXTINF:-1 ,Investigation Discovery
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/213
+#EXTINF:-1 ,CI Polsat
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/212
+#EXTINF:-1 ,CBS Reality
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/211
+#EXTINF:-1 ,Canal+ Dokument
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/227
+#EXTINF:-1 ,TVP Dokument
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/205
+#EXTINF:-1 ,Polsat Doku
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/210
+#EXTINF:-1 ,Polsat X
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1043333
+#EXTINF:-1 ,Polsat Reality
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1043334
+#EXTINF:-1 ,DocuBox
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/197
+#EXTINF:-1 ,Polsat Viasat Explore
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/209
+#EXTINF:-1 ,Polsat Viasat History
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/208
+#EXTINF:-1 ,Polsat Viasat Nature
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/207
+#EXTINF:-1 ,Viasat True Crime
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/828876
+#EXTINF:-1 ,Travel Channel
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/204
+#EXTINF:-1 ,Fokus TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/201
+#EXTINF:-1 ,Adventure
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/202
+#EXTINF:-1 ,Water Planet
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/203
+#EXTINF:-1 ,Moconomy
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/663956
+#EXTINF:-1 ,StudioMed TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/200
+#EXTINF:-1 ,Canal+ Premium
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/279
+#EXTINF:-1 ,Canal+ 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/278
+#EXTINF:-1 ,Canal+ Film
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/277
+#EXTINF:-1 ,Canal+ 360
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/276
+#EXTINF:-1 ,Canal+ Seriale
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/275
+#EXTINF:-1 ,HBO
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/410969
+#EXTINF:-1 ,HBO 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/410973
+#EXTINF:-1 ,HBO 3
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/895120
+#EXTINF:-1 ,Cinemax
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/268
+#EXTINF:-1 ,Cinemax 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/267
+#EXTINF:-1 ,Filmbox Premium
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/266
+#EXTINF:-1 ,Filmbox Extra
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/265
+#EXTINF:-1 ,Filmbox Family
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/264
+#EXTINF:-1 ,Filmbox Action
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/263
+#EXTINF:-1 ,Filmbox Arthouse
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/262
+#EXTINF:-1 ,AXN
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/261
+#EXTINF:-1 ,AXN Spin
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/260
+#EXTINF:-1 ,AXN Black
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/259
+#EXTINF:-1 ,AXN White
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/258
+#EXTINF:-1 ,TVN Fabula
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/257
+#EXTINF:-1 ,Polsat Film
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/256
+#EXTINF:-1 ,Polsat Film 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/1043332
+#EXTINF:-1 ,SkyShowtime 1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/984580
+#EXTINF:-1 ,SkyShowtime 2
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/984585
+#EXTINF:-1 ,Paramount Channel
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/255
+#EXTINF:-1 ,Warner TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/254
+#EXTINF:-1 ,Epic Drama
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/253
+#EXTINF:-1 ,Stopklatka
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/252
+#EXTINF:-1 ,AMC
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/251
+#EXTINF:-1 ,Sundance TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/250
+#EXTINF:-1 ,SciFi Universal
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/249
+#EXTINF:-1 ,13 Ulica
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/248
+#EXTINF:-1 ,FX
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/247
+#EXTINF:-1 ,FX Comedy
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/246
+#EXTINF:-1 ,Comedy Central
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/245
+#EXTINF:-1 ,Comedy Central Extra
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/244
+#EXTINF:-1 ,Film Cafe
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/243
+#EXTINF:-1 ,Ale Kino+
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/242
+#EXTINF:-1 ,Kino TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/241
+#EXTINF:-1 ,Kino Polska
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/240
+#EXTINF:-1 ,Polsat Seriale
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/239
+#EXTINF:-1 ,TVP Seriale
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/238
+#EXTINF:-1 ,Novela TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/237
+#EXTINF:-1 ,Novelas+
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/236
+#EXTINF:-1 ,Novelas+1
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/235
+#EXTINF:-1 ,Bollywood
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/234
+#EXTINF:-1 ,Romance TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/233
+#EXTINF:-1 ,Red Carpet TV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/232
+#EXTINF:-1 ,FilMax
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/36871
+#EXTINF:-1 ,ViDocTV
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/846448
+#EXTINF:-1 ,Top Movies Polska
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/663946
+#EXTINF:-1 ,Grjngo Westerny
+http://maly.itservice.fans:80/mR6cFD9RHfjAy9pA/bH8FNHSeQjHpg2gy/505828
